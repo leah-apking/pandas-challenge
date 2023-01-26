@@ -8,7 +8,9 @@ In contrast, district schools lagged significantly behind, with an overall passi
 
 When comparing charter and district school student performance the most significant difference can be found between the percentage of students determined to be passing overall. These students scored at least a 70 percent on both the math and reading assessment, nine in ten charter school students met this mark, but only about half of district school students managed to pass both assessments.
 
-The measures of school size and budget found that students at large schools trail behind those at schools with a small and medium sized student body. While schools with higher budgets per student had higher overall passing rates while the schools with lower budgets produced the lowest overall passing rates.
+Suprisingly, schools with higher budgets ($645-680) per student had lower overall passing rates (53.4%), while the schools with lower budgets (under $585) produced higher overall passing rates (90.4%).
+
+The measures of school size and budget found that students at large schools (2000-5000 students) trail behind those at schools with a small and medium sized student body. Students at large schools averaged a 58.3 percent overall passing rate compared to 89.9 percent at small schools (under 1000 students) and 90.6 percent at medium sized schools.
 
 The top performing school was Cabrera High School and the lowest performer was Rodriguez High School; both the top five and bottom five schools were all within a percentage point of each other on percentage of overall passing students. 
 Year in school was not shown to be a large contributing factor, as students in each grade performed similarly to the rest of the school. The school itself had a larger impact on test scores.
